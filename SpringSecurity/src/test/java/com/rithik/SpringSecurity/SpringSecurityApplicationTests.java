@@ -1,4 +1,4 @@
-package com.telusko.part29springsecex;
+package com.rithik.SpringSecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
